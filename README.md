@@ -217,8 +217,7 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
--- include your output screenshots ---
+![maths](./images/mat.png)
 
 ## Result:
 
